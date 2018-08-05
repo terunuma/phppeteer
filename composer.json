@@ -8,5 +8,10 @@
             "email": "4489564+terunuma@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "terunuma\\Phppeteer\\": "src/Phppeteer/"
+	}
+    }
 }
