@@ -13,5 +13,10 @@
         "psr-4": {
             "terunuma\\Phppeteer\\": "src/Phppeteer/"
 	}
+    },
+    "require-dev": {
+        "monolog/monolog": "^1.23",
+        "phpunit/phpunit": "^7.3",
+        "psy/psysh": "@stable"
     }
 }
