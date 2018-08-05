@@ -1,0 +1,12 @@
+{
+    "name": "fracmode/phppeteer",
+    "description": "PHP wrapper for puppeteer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "terunuma",
+            "email": "4489564+terunuma@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
